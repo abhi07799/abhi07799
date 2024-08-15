@@ -3,7 +3,7 @@
 
 # Hi there, I'm Abhishek Kumawat 👋
 # 💫 About Me:
-I'm a passionate Software Developer from Rajasthan, India. I specialize in backend development and have experience in building RESTful services, microservices architecture, and full-stack applications. I love optimizing code and making applications more efficient.<br><br>I am always eager to learn new technologies and take on challenging problems. My goal is to contribute to impactful projects that make a difference and continuously improve my skills.<br><br>🌍 I'm based in Rajasthan, India<br>💼 Currently working as a Software Developer<br>🎓 Bachelor of Technology in Computer Science from Rajasthan Technical University<br>💬 Ask me about Java, Spring Boot, Microservices, and API Development<br>!--<br>📫 How to reach me: abhishekk07799@gmail.com<-->📝 [Check out my LinkedIn](https://www.linkedin.com/in/abhishek-kumawat-a9b6001a4/) 
+I'm a passionate Software Developer from Rajasthan, India. I specialize in backend development and have experience in building RESTful services, microservices architecture, and full-stack applications. I love optimizing code and making applications more efficient.<br><br>I am always eager to learn new technologies and take on challenging problems. My goal is to contribute to impactful projects that make a difference and continuously improve my skills.<br><br>🌍 I'm based in Rajasthan, India<br>💼 Currently working as a Software Developer<br>🎓 Bachelor of Technology in Computer Science from Rajasthan Technical University<br>💬 Ask me about Java, Spring Boot, Microservices, and API Development<br><!--<br>📫 How to reach me: abhishekk07799@gmail.com-->📝 [Check out my LinkedIn](https://www.linkedin.com/in/abhishek-kumawat-a9b6001a4/) 
 
 
 ## 🌐 Socials:
