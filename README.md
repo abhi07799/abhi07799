@@ -1,89 +1,106 @@
 <!--
-**abhi07799/abhi07799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+  GitHub profile README for Abhishek Kumawat.
+  Keep this aligned with the latest resume.
+-->
 
-# Hi there, I'm Abhishek Kumawat 👋
-# 💫 About Me:
-I'm a passionate Software Developer from Rajasthan, India. I specialize in backend development and have experience in building RESTful services, microservices architecture, and full-stack applications. I love optimizing code and making applications more efficient.<br><br>I am always eager to learn new technologies and take on challenging problems. My goal is to contribute to impactful projects that make a difference and continuously improve my skills.<br><br>🌍 I'm based in Rajasthan, India<br>💼 Currently working as a Software Developer<br>🎓 Bachelor of Technology in Computer Science from Rajasthan Technical University<br>💬 Ask me about Java, Spring Boot, Microservices, and API Development<br><!--<br>📫 How to reach me: abhishekk07799@gmail.com-->📝 [Check out my LinkedIn](https://www.linkedin.com/in/abhishek-kumawat-a9b6001a4/) 
+<h1 align="center">Hi, I'm Abhishek Kumawat 👋</h1>
 
+<p align="center">
+  <strong>Software Development Engineer | Java Backend Developer</strong><br/>
+  Building reliable backend systems, REST APIs, and AI-assisted developer workflows.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek0707) 
-<!-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:abhishekk07799@gmail.com) -->
-
-
----
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/j2EE-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/JAX_RS_&_Jersey-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/hibernate-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-kumawat-a9b6001a4/">LinkedIn</a> ·
+  <a href="mailto:abhishekk07799@gmail.com">Email</a> ·
+  <a href="https://github.com/abhi07799">GitHub</a>
+</p>
 
 ---
 
-## 🛠️ Skills
+## About
 
-| Languages       | Frameworks         | Technologies/Tools |
-| --------------- | ------------------ | ------------------ |
-| Core Java       | Spring Boot        | Maven              |
-| HTML            | Spring MVC         | Agile Methodologies|
-| CSS             | Hibernate          | Docker             |
-| JavaScript      | J2EE               | Design Patterns    |
-| Angular         | JAX-RS             | Git & GitHub       |
-| SQL             | Jersey             | REST APIs          |
-|                 | Servlet            | Microservices      |
+I'm a Java backend developer with experience designing RESTful APIs, working with microservices, troubleshooting production systems, and building AI-powered developer tools.
+
+- 💼 Software Development Engineer I at **HashedIn by Deloitte**
+- 🧠 Focused on **Java, Spring Boot, backend engineering, and applied AI**
+- 🏆 Received the **Rising Star Award** at HashedIn by Deloitte
+- 🎓 B.Tech in Computer Science, **Rajasthan Technical University**
 
 ---
 
-## 🔧 Projects
+## Experience
 
-### [Invoice Management System - Backend Application](https://github.com/abhi07799/Invoice-Processing-System)
-A backend RESTful system designed to handle invoices and clients efficiently. Features include:
-- Adding, viewing, updating, and deleting invoices
-- Exporting data to CSV
-- Sending invoice info via email
-- API documentation with Swagger
+### HashedIn by Deloitte — Software Development Engineer I
+*July 2024 – Present · Gurugram, Haryana*
 
-**Tech Stack**: Java, Spring Boot, Hibernate, MySQL, Java Mail, Maven, Swagger
+- Designed REST APIs and backend features for an enterprise dental care application using Java and Spring Boot, implementing business logic based on American CDT coding standards.
+- Configured multiple database connections with Spring JDBC Template to support environment-specific connectivity across staging environments.
+- Resolved **300+ production bugs** and **20+ customer-reported issues** across **10+ microservices**, using AWS services and Elasticsearch for root-cause analysis.
+- Developed an **MCP-based AI coding agent** integrating Claude and Azure to analyze user stories, GitHub repositories, and prior findings, identify impacted files, and propose code changes for developer review and testing.
+- Enabled AI-assisted implementation of **400+ bugs and 100+ features**, with **95%+ reported accuracy**.
+- **Achievement:** Rising Star Award.
 
-### [Microservices Application with Service Registry & API Gateway](https://github.com/abhi07799/Employee-Management-Microservices-Project)
-An Employee Management application demonstrating microservices architecture. Key components:
-- Eureka Server for Service Registry
-- API Gateway using Spring Cloud
-- Inter-service communication with RestTemplate and Open Feign
+### Cogent Infomedia — Software Developer
+*May 2023 – September 2023 · Udaipur, Rajasthan*
 
-**Technologies**: Spring Boot, H2 DB, Spring Cloud, Eureka, Open Feign
+- Developed J2EE REST services for Medicare and recruitment platforms using JAX-RS and Jersey.
+- Built and maintained APIs for a Spring Boot microservices-based Team Management System.
+- Resolved **30+ production bugs** and contributed to query optimization that reduced response time by **50%**.
 
-### [Blog Platform - Full Stack Application](https://github.com/abhi07799/Blog-Application)
-A full-stack blogging platform with Angular (front-end) and Spring Boot (back-end). Features:
-- Browsing, searching, and liking blog posts
-- Creating and managing personal blog posts
-- Data storage with MySQL
+### Arcgate — Software Developer
+*June 2022 – February 2023 · Udaipur, Rajasthan*
 
-**Tech Stack**: HTML, CSS, Angular, Spring Boot, Hibernate, MySQL, Maven
-
-### [Task Tracker Application](https://github.com/abhi07799/Task-Tracker)
-A RESTful backend system for tracking team tasks. Features:
-- Managing employees and assigning tasks
-- Employees updating task status with feedback
-
-**Tech Stack**: Java, Spring Boot, Hibernate, H2 Database, MySQL, Maven, Swagger
+- Contributed to Java application development, unit testing, and API maintenance.
+- Applied Test-Driven Development (TDD) while building APIs for a Club Management System.
+- Participated in code reviews and used Selenium and TestNG for Salesforce UI automation.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhi07799&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhi07799&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07799&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Featured Project
+
+### [Evently — Event and Ticket Management System](https://github.com/abhi07799/Evently)
+
+A backend application for event and ticket management, covering inventory, bookings, cancellations, and event operations.
+
+- Developed REST APIs for event and ticket management.
+- Implemented JWT authentication and role-based access control using **Keycloak** and **Spring Security**.
+- Implemented concurrent ticket purchasing with **pessimistic locking** to prevent ticket overselling.
+- Added QR code generation, Flyway database migrations, and Swagger API documentation.
+
+**Tech:** Java 21 · Spring Boot · Spring Security · Keycloak · Spring Data JPA · Hibernate · PostgreSQL · Flyway
 
 ---
-<!--[![](https://visitcount.itsvg.in/api?id=abhi07799&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| Languages | Core Java, SQL, JavaScript, HTML, CSS |
+| Backend | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security, Spring AI, J2EE, Servlets, JSP |
+| Databases & Messaging | PostgreSQL, MySQL, Redis, Apache Kafka |
+| Cloud & DevOps | AWS Services, Docker, Maven, Git, GitHub |
+| Security & API | Keycloak, OAuth 2.0, JWT, REST APIs, OpenAPI / Swagger |
+| Engineering | Microservices, Design Patterns, Caching, Transaction Management, Database Migration, Agile |
+
+---
+
+## Education
+
+**Bachelor of Technology — Computer Science**  
+Rajasthan Technical University · 2017–2021 · Kota, Rajasthan
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi07799&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07799&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to connecting with engineers, builders, and teams working on meaningful products.</i>
+</p>
