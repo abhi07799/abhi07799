@@ -1,17 +1,14 @@
-<!--
-  GitHub profile README for Abhishek Kumawat.
-  Keep this aligned with the latest resume.
--->
+<!-- GitHub profile README for Abhishek Kumawat -->
 
 <h1 align="center">Hi, I'm Abhishek Kumawat 👋</h1>
 
 <p align="center">
   <strong>Software Development Engineer | Java Backend Developer</strong><br/>
-  Building reliable backend systems, REST APIs, and AI-assisted developer workflows.
+  Building backend systems, REST APIs, microservices, and AI-assisted developer tools.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kumawat-a9b6001a4/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/abhishek0707/">LinkedIn</a> ·
   <a href="mailto:abhishekk07799@gmail.com">Email</a> ·
   <a href="https://github.com/abhi07799">GitHub</a>
 </p>
@@ -20,11 +17,11 @@
 
 ## About
 
-I'm a Java backend developer with experience designing RESTful APIs, working with microservices, troubleshooting production systems, and building AI-powered developer tools.
+Java backend developer experienced in building RESTful services, working across microservices, resolving production issues, and developing AI-powered engineering tools.
 
 - 💼 Software Development Engineer I at **HashedIn by Deloitte**
 - 🧠 Focused on **Java, Spring Boot, backend engineering, and applied AI**
-- 🏆 Received the **Rising Star Award** at HashedIn by Deloitte
+- 🏆 **Rising Star Award** — [View award on LinkedIn](https://www.linkedin.com/in/abhishek0707/overlay/Honor/783094542/treasury?profileId=ACoAAC_JjhcBzCwvR1iRzcjsAzVSB1ufbXdf04k)
 - 🎓 B.Tech in Computer Science, **Rajasthan Technical University**
 
 ---
@@ -37,9 +34,8 @@ I'm a Java backend developer with experience designing RESTful APIs, working wit
 - Designed REST APIs and backend features for an enterprise dental care application using Java and Spring Boot, implementing business logic based on American CDT coding standards.
 - Configured multiple database connections with Spring JDBC Template to support environment-specific connectivity across staging environments.
 - Resolved **300+ production bugs** and **20+ customer-reported issues** across **10+ microservices**, using AWS services and Elasticsearch for root-cause analysis.
-- Developed an **MCP-based AI coding agent** integrating Claude and Azure to analyze user stories, GitHub repositories, and prior findings, identify impacted files, and propose code changes for developer review and testing.
+- Developed an **MCP-based AI coding agent** integrating Claude and Azure to analyze user stories, GitHub repositories, and prior findings, identify impacted files, and autonomously implement code changes with developer review and testing.
 - Enabled AI-assisted implementation of **400+ bugs and 100+ features**, with **95%+ reported accuracy**.
-- **Achievement:** Rising Star Award.
 
 ### Cogent Infomedia — Software Developer
 *May 2023 – September 2023 · Udaipur, Rajasthan*
@@ -72,6 +68,20 @@ A backend application for event and ticket management, covering inventory, booki
 
 ---
 
+## Other Projects
+
+### [Invoice Management System](https://github.com/abhi07799/Invoice-Processing-System)
+Backend REST application for managing clients and invoices, with invoice CRUD operations, CSV export, email notifications, and Swagger API documentation.
+
+**Tech:** Java · Spring Boot · Hibernate · MySQL · Java Mail · Maven · Swagger
+
+### [Employee Management — Microservices](https://github.com/abhi07799/Employee-Management-Microservices-Project)
+Microservices-based employee management application demonstrating service discovery, API gateway routing, and inter-service communication.
+
+**Tech:** Spring Boot · Spring Cloud · Eureka · API Gateway · OpenFeign · H2
+
+---
+
 ## Technical Skills
 
 | Category | Skills |
@@ -92,11 +102,29 @@ Rajasthan Technical University · 2017–2021 · Kota, Rajasthan
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi07799&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07799&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi07799&theme=github_dark" alt="GitHub contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi07799&show_icons=true&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07799&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi07799&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi07799/abhi07799/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi07799/abhi07799/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/abhi07799/abhi07799/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
